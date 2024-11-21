@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PinkyCodeMaster&theme=" alt="PinkyCodeMaster" /></a> </p> -->
 
-- 🔭 I’m currently working on [Learning GitHub](https://github.com/PinkyCodeMaster?tab=repositories)
-- 👯 I’m looking to collaborate on [Family-Hive](https://github.com/PinkyCodeMaster?tab=repositories)
+- 🔭 I’m currently working on [Nextgurusolutions](https://github.com/PinkyCodeMaster?tab=repositories)
+- 👯 I’m looking to collaborate on [Nextgurusolutions](https://github.com/PinkyCodeMaster?tab=repositories)
 - 🤝 I’m looking for help with [Family-Hive](https://github.com/PinkyCodeMaster?tab=repositories)
-- 🌱 I’m currently learning **Github TerraForm**
+- 🌱 I’m currently learning **CICD**
 - 💬 Ask me about **React, NextJs, Github, Expo.**
 - 📫 How to reach me **scottjones@netgurusolutions.co.uk**
 - 👨‍💻 All of my projects are available at **porfolio.netgurusolutions.co.uk**
-- 📝 I regularly write articles on **blog.netgurusolutions.co.uk**
-- ⚡ Fun fact **I have not clue on what im doing and where im going in live.**
+<!--- 📝 I regularly write articles on **blog.netgurusolutions.co.uk**-->
+- ⚡ Fun fact **I have not clue on what im doing and where im going in life.**
 
 <div> <a href="https://twitter.com/PinkyCodeMaster" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/itspinky1995" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
