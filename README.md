@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently learning **CI/CD** and modern DevOps practices  
 - 💬 Ask me about **React, Next.js, GitHub, Expo**  
-- 👨‍💻 Explore my projects: [portfolio.netgurusolutions.co.uk](http://portfolio.netgurusolutions.co.uk)  
+- 👨‍💻 Explore my projects: [S.T.E.P.S](https://github.com/PinkyCodeMaster/S.T.E.P.S)  
 - ⚡ Fun fact: I’m figuring life out one step at a time  
 
 ---
@@ -20,6 +20,7 @@
 ### 🚀 Current Focus
 I’m building **S.T.E.P.S** — *Survive Debt, Take Control, Establish Wealth, Protect Family, Secure Legacy*.  
 A mission-driven project to help families and neurodiverse people manage debt, overcome financial struggles, and build a secure future.  
+Working on both **web** and **native** sides to make it accessible everywhere.  
 
 ---
 
@@ -36,3 +37,4 @@ Reach me at: **scottjones@netgurusolutions.co.uk**
   </a>
 </p>
 -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
