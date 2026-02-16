@@ -18,7 +18,6 @@ A complete smart home ecosystem - built from scratch, fully local, no cloud depe
 | Project | Description |
 |---------|-------------|
 | [alice-docs](https://github.com/PinkyCodeMaster/alice-docs) | 📖 Documentation |
-| [alice-core](https://github.com/PinkyCodeMaster/alice-core) | 🧠 API Server |
 | [alice-ai](https://github.com/PinkyCodeMaster/alice-ai) | 🎤 Voice AI |
 | [alice-firmware](https://github.com/PinkyCodeMaster/alice-firmware) | 🔌 Devices |
 | [alice-os](https://github.com/PinkyCodeMaster/alice-os) | 💾 Linux OS |
